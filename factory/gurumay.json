@@ -1,0 +1,9 @@
+{
+	"name": "gurumay",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b301f357-d7fc-401b-887f-91cbd572323a",
+		"tenantId": "55bfff24-7554-45e4-ac8b-0e23c46b1b69"
+	}
+}
